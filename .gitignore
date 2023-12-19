@@ -1,0 +1,7 @@
+.history
+
+**/.terraform/*
+.terraform*
+# .tfstate files
+*.tfstate
+*.tfstate.*
