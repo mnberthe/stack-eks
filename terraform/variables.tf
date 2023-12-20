@@ -76,3 +76,6 @@ variable "eks_tags" {
     Environment = "dev"
   }
 }
+
+## end
+
