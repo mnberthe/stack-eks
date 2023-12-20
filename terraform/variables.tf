@@ -10,8 +10,8 @@ variable "region" {
 
 variable "vpc_name" {
   description = "Name of VPC"
-  type = string
-  default = "vpc-eks"
+  type        = string
+  default     = "vpc-eks"
 }
 
 variable "public_subnets" {
