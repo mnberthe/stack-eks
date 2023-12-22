@@ -77,5 +77,4 @@ variable "eks_tags" {
   }
 }
 
-## end
 
