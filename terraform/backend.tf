@@ -1,7 +1,7 @@
 
 terraform {
   backend "s3" {
-    bucket = "stack-eks"
+    bucket = "changepilot-stack-dev"
     key    = "state/terraform.tfstate"
     region = "us-east-1"
   }
